@@ -2,4 +2,11 @@
 2. Line_Following_Robot        - Motor driver(Hardware) Component added
 3. Obstacle_Detector	             - Motor driver(Hardware) Component added
 
-In the file "Elecduino UN corrected_complete", project_5 code is corrected only. Circuit diagram is still to be corrected.
+In the file "Elecduino UN corrected_complete", project_5 code is corrected only. Circuit diagram is yet to be corrected.
+
+----Elecduino UN corrected_complete-----
+
+2N2222 transistor pinout need to be correct.
+
+Project-6 schematic and block diagram
+Project-15 schematic and block diagram
