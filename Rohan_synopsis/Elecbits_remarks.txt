@@ -6,7 +6,7 @@ In the file "Elecduino UN corrected_complete", project_5 code is corrected only.
 
 ----Elecduino UN corrected_complete-----
 
-2N2222 transistor pinout need to be correct.
+2N2222 transistor pinout needs to be correct.
 
 Project-6 schematic and block diagram
 Project-15 schematic and block diagram
